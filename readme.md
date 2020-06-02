@@ -1,5 +1,5 @@
 # Internship Report 
-The code in this repo is not executbale because it depends on non public data and code.
+The code in this repo is not executable because it depends on non public data and code.
 Especially the code for the HAL algorithm is missing.
 
 ## Directory Overview
