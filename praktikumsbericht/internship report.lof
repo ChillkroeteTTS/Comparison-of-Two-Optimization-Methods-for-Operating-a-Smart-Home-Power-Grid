@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Overview of used time series with energy consumption/generation in Watts. Due to missing data, feasible simulation periods are only September to December. September allows for simulations without sector coupling effects, because the thermal load is constantly zero.\relax }}{9}{figure.caption.15}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The \ac {MILP} optimization with the \ac {OEMOF} framework caused less power import. If power is imported, the amount of power is usually small compared to HALs power imports.\relax }}{14}{figure.caption.16}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Above: Cummulated Net Import in kWh. Below: Total Net Import in kWh.}}}{14}{subfigure.1.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Net Import Peak Distribution. Whiskers are 1.5 of the inter quantile range.}}}{14}{subfigure.1.2}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Performance of \ac {OEMOF} optimized simulations decreases with short scheduling horizons. The biggest performance difference is between the 12h and 6h split. However, the 6h split performs better than the baseline simulation with the HAL algorithm.\relax }}{15}{figure.caption.17}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Above: Cummulated Net Import in kWh. Below: Total Net Import in kWh.}}}{15}{subfigure.2.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Net Import Peak Distribution. Whiskers are 1.5 of the inter quantile range.}}}{15}{subfigure.2.2}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Total net import for different noise standart deviations $\sigma $. The areas mark the 25 and 75 percentile of the ensemble runs. The solid lines mark the median of the ensemble runs. HALs import seems to be negatively correlated to $\sigma $ while OEMOFs import rises with increasing $sigma$.\relax }}{16}{figure.caption.18}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Power Flow during the first day of one ensemble run with $\tau = 30$ and $\sigma =2000$. \relax }}{17}{figure.caption.19}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Simulation results with real PV and prediction data for September. \ac {OEMOF}s first simulation run performs slightly better than the second which is controlled by a schedule. HAL is improving in the second run. HAL is used in both runs as a near realtime controller.\relax }}{18}{figure.caption.20}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Total Net Import.}}}{18}{subfigure.5.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Net Import Peak Distribution. Whiskers are 1.5 of the inter quantile range.}}}{18}{subfigure.5.2}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Storage consumption and PV output during the first day of the September simulation. Around 9am, the HAL algorithm uses the peak in \ac {PV} production.\relax }}{19}{figure.caption.22}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Simulation results with real PV and prediction data controlled by schedules. The second simulation runs (Real HAL, Real OEMOF) have a slightly higher total net import and more and higher peaks than the first simulation runs on the \ac {PV} prediction. \relax }}{21}{figure.caption.23}% 
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Total Net Import in .}}}{21}{subfigure.7.1}% 
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Net Import Peak Distribution. Whiskers are 1.5 of the inter quantile range.}}}{21}{subfigure.7.2}% 
+\addvspace {10\p@ }

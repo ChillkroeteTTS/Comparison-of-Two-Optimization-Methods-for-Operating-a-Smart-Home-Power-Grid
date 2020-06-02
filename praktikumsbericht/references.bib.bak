@@ -1,0 +1,73 @@
+% Encoding: UTF-8
+
+@article{oemof,
+	Abstract = {Energy system models have become indispensable tools for planning future energy systems by providing insights into different development trajectories. However, sustainable systems with high shares of renewable energy are characterized by growing cross-sectoral interdependencies and decentralized structures. To capture important properties of increasingly complex energy systems, sophisticated and flexible modelling tools are needed. At the same time, open science is becoming increasingly important in energy system modelling. This paper presents the Open Energy Modelling Framework (oemof) as a novel approach to energy system modelling, representation and analysis. The framework provides a toolbox to construct comprehensive energy system models and has been published open source under a free licence. Through collaborative development based on open processes, the framework supports a maximum level of participation, transparency and open science principles in energy system modelling. Based on a generic graph-based description of energy systems, it is well-suited to flexibly model complex cross-sectoral systems and incorporate various modelling approaches. This makes the framework a multi-purpose modelling environment for modelling and analyzing different systems at scales ranging from urban to transnational.},
+	Author = {Hilpert, S. and Kaldemeyer, C. and Krien, U. and G{\"u}nther, S. and Wingenbach, C. and Plessmann, G.},
+	Da = {2018/11/01/},
+	Date-Added = {2020-05-09 14:44:23 +0200},
+	Date-Modified = {2020-05-09 14:44:46 +0200},
+	Doi = {https://doi.org/10.1016/j.esr.2018.07.001},
+	Isbn = {2211-467X},
+	Journal = {Energy Strategy Reviews},
+	Keywords = {Decision support; Energy system modelling; Optimization; Collaborative development; Open science},
+	Pages = {16--25},
+	Title = {The Open Energy Modelling Framework (oemof) - A new approach to facilitate open science in energy system modelling},
+	Ty = {JOUR},
+	Url = {http://www.sciencedirect.com/science/article/pii/S2211467X18300609},
+	Volume = {22},
+	Year = {2018},
+	Bdsk-Url-1 = {http://www.sciencedirect.com/science/article/pii/S2211467X18300609},
+	Bdsk-Url-2 = {https://doi.org/10.1016/j.esr.2018.07.001}}
+
+@article{schedulingMilp,
+	Author = {Zdanek Bradac, Vaclav Kaczmarczyk, Petr Fiedler},
+	Date-Added = {2020-04-29 16:03:51 +0200},
+	Date-Modified = {2020-04-29 16:04:43 +0200},
+	Title = {Optimal Scheduling of Domestic Appliances via MILP}}
+
+@article{strategicScheduling,
+	Author = {Alireza Nouri, Alireza Soroudi, Andrew Keane},
+	Date-Added = {2020-04-29 16:01:41 +0200},
+	Date-Modified = {2020-04-29 16:03:03 +0200},
+	Title = {Strategic Scheduling in Smart Grids}}
+
+@article{OptimalLoadScheduling,
+	Author = {Fady Y. Melhem and Olivier Grunder and Zakaria Hammoudan and Nazih Moubayed},
+	Journal = {2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe)},
+	Pages = {1-6},
+	Title = {Optimal residential load scheduling model in smart grid environment},
+	Year = {2017}}
+
+@Electronic{branchAndCutEfficient,
+  author = {NTNU - Trondheim},
+  title  = {MILP algorithms: branch-and-bound and branch-and-cut},
+  url    = {https://www.itk.ntnu.no/_media/fag/fordypning/tk16/milpalgorithms.pdf},
+}
+
+@Electronic{oemofDoc,
+  title = {OEMOF Documentation},
+  url   = {https://oemof.readthedocs.io/en/stable/},
+}
+
+@InProceedings{powermatcher,
+  author  = {Kok, Koen and Warmer, C. and Kamphuis, Rene},
+  title   = {PowerMatcher: Multiagent control in the electricity infrastructure},
+  year    = {2005},
+  pages   = {75-82},
+  month   = {01},
+  doi     = {10.1145/1082473.1082807},
+  journal = {Proceedings of the Fourth International Joint Conference on Autonomous Agents and Multiagent Systems},
+}
+
+@Article{dlrPred,
+  author  = {Maitanova, Nailya and Telle, Jan-Simon and Hanke, Benedikt and Grottke, Matthias and Schmidt, Thomas and von Maydell, Karsten and Agert, Carsten},
+  title   = {A Machine Learning Approach to Low-Cost Photovoltaic Power Prediction Based on Publicly Available Weather Reports},
+  journal = {Energies},
+  year    = {2020},
+  volume  = {13},
+  pages   = {735},
+  month   = {02},
+  doi     = {10.3390/en13030735},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

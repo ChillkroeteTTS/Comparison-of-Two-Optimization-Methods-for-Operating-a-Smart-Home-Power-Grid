@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{oemofDoc}
+Oemof documentation.
+\newblock \url{https://oemof.readthedocs.io/en/stable/} . Accessed 2 June 2020.
+
+\bibitem{strategicScheduling}
+Andrew~Keane Alireza~Nouri, Alireza~Soroudi.
+\newblock Strategic scheduling in smart grids.
+
+\bibitem{oemof}
+S.~Hilpert, C.~Kaldemeyer, U.~Krien, S.~G{\"u}nther, C.~Wingenbach, and
+  G.~Plessmann.
+\newblock The open energy modelling framework (oemof) - a new approach to
+  facilitate open science in energy system modelling.
+\newblock {\em Energy Strategy Reviews}, 22:16--25, 2018.
+
+\bibitem{powermatcher}
+Koen Kok, C.~Warmer, and Rene Kamphuis.
+\newblock Powermatcher: Multiagent control in the electricity infrastructure.
+\newblock pages 75--82, 01 2005.
+
+\bibitem{dlrPred}
+Nailya Maitanova, Jan-Simon Telle, Benedikt Hanke, Matthias Grottke, Thomas
+  Schmidt, Karsten von Maydell, and Carsten Agert.
+\newblock A machine learning approach to low-cost photovoltaic power prediction
+  based on publicly available weather reports.
+\newblock {\em Energies}, 13:735, 02 2020.
+
+\bibitem{branchAndCutEfficient}
+NTNU Trondheim.
+\newblock Milp algorithms: branch-and-bound and branch-and-cut.
+\newblock
+  \url{https://www.itk.ntnu.no/_media/fag/fordypning/tk16/milpalgorithms.pdf}.
+  Accessed 2 June 2020.
+
+\bibitem{schedulingMilp}
+Petr~Fiedler Zdanek~Bradac, Vaclav~Kaczmarczyk.
+\newblock Optimal scheduling of domestic appliances via milp.
+
+\end{thebibliography}

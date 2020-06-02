@@ -1,0 +1,9 @@
+.idea
+src/oemof/__pycache__
+src/oemof/results
+venv
+*/**/*.pyc
+*/**/*.iml
+*.iml
+
+/oemof_runs/data/
